@@ -35,7 +35,7 @@ public class TaskRegistController {
 			return "task-regist";
 		}
 		
-		//正常な場合に、タスク登録確認画面に遷移する
+		//正常な場合にタスク登録確認画面に遷移する
 		return "task-confirm-regist";
 	}
 	
